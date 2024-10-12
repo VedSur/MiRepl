@@ -1,0 +1,7 @@
+%main
+    $a$ 10 =$a $a "%i" .outf
+    0
+end
+
+.main
+.exit
